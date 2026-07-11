@@ -119,9 +119,9 @@ Understanding Python well will make learning these topics much easier.
 - [x] Operators
 - [x] Comparison Operators
 - [x] Logical Operators
-- [ ] Lists
-- [ ] Tuples
-- [ ] Dictionaries
+- [x] Lists
+- [x] Tuples
+- [x] Dictionaries
 - [ ] Sets
 - [ ] Functions
 - [ ] Loops
