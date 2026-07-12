@@ -122,12 +122,12 @@ Understanding Python well will make learning these topics much easier.
 - [x] Lists
 - [x] Tuples
 - [x] Dictionaries
-- [ ] Sets
-- [ ] Functions
-- [ ] Loops
-- [ ] Classes
-- [ ] Error Handling
-- [ ] File Handling
+- [x] Sets
+- [x] Functions
+- [x] Loops
+- [x] Classes
+- [x] Error Handling
+- [x] File Handling
 
 ---
 
