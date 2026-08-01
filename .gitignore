@@ -14,3 +14,5 @@ __pycache__/
 !**/.env.example
 
 notebooks/huggingface/my_saved_models/
+notebooks/llms/fine_tuned_model/
+notebooks/llms/test_trainer/
